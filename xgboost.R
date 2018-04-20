@@ -1,11 +1,3 @@
-#'  @title: xgboost for vf_framework
-#'  @Author: Joeri Admiraal
-#'  @description
-#'  Company: Veneficus
-#'  Client: General
-#'  Input: 
-#'  
-
 library(xgboost)
 
 # Define functions
