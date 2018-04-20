@@ -1,0 +1,33 @@
+team_name,home_avg_rating,home_buildUpPlaySpeed,home_buildUpPlayDribblingClass,home_buildUpPlayPassing,home_buildUpPlayPositioningClass,home_chanceCreationPassing,home_chanceCreationCrossing,home_chanceCreationShooting,home_chanceCreationPositioningClass,home_defencePressure,home_defenceAggression,home_defenceTeamWidth,home_defenceDefenderLineClass
+APOEL Nicosia,71,40,Normal,40,Organised,50,50,50,Organised,50,50,50,Cover
+AS Monaco,79,52,Normal,39,Organised,54,68,54,Organised,56,62,51,Cover
+Atlético Madrid,83,57,Normal,37,Organised,61,52,62,Organised,49,42,52,Cover
+Besiktas,78,67,Lots,42,Organised,66,51,62,Free Form,56,56,60,Cover
+Borussia Dortmund,82,45,Normal,23,Organised,38,36,59,Free Form,70,71,40,Cover
+Celtic,72,33,Normal,45,Organised,51,51,65,Organised,58,71,63,Cover
+Chelsea,83,67,Normal,41,Organised,41,34,44,Organised,31,41,46,Cover
+CSKA Moskou,76,48,Normal,50,Organised,60,39,65,Free Form,55,58,52,Cover
+FC Barcelona,85,35,Normal,31,Free Form,36,28,71,Free Form,61,65,65,Cover
+FC Basel,74,61,Normal,46,Organised,40,43,63,Organised,50,62,64,Cover
+FC Porto,79,65,Normal,48,Organised,51,54,63,Organised,58,58,60,Cover
+FC Bayern Munich,85,58,Normal,26,Organised,42,42,35,Free Form,50,55,67,Cover
+Feyenoord,76,55,Little,41,Organised,48,58,40,Organised,43,46,40,Cover
+FK Qarabag,62,40,Normal,40,Organised,50,50,50,Organised,50,50,50,Cover
+Juventus,85,51,Normal,35,Organised,61,41,71,Free Form,45,60,30,Cover
+Liverpool,81,66,Normal,34,Organised,34,34,46,Organised,66,70,61,Cover
+Manchester City,83,41,Normal,32,Free Form,38,36,24,Free Form,48,52,46,Cover
+Manchester United,83,60,Normal,46,Organised,55,55,56,Free Form,54,62,50,Cover
+Napoli,81,55,Lots,34,Organised,63,41,65,Organised,50,72,55,Offside Trap
+NK Maribor,68,40,Normal,40,Organised,50,50,50,Organised,50,50,50,Cover
+Olympiakos Piraeus,74,50,Normal,42,Organised,55,60,59,Organised,63,61,62,Cover
+Paris Saint-Germain,83,49,Normal,24,Organised,62,58,35,Organised,58,54,57,Cover
+RB Leipzig,75,72,Normal,45,Organised,65,44,46,Free Form,65,66,36,Cover
+Real Madrid CF,86,50,Lots,33,Free Form,61,55,74,Free Form,67,71,63,Cover
+Roma,81,53,Lots,40,Organised,70,72,60,Free Form,50,57,48,Cover
+RSC Anderlecht,74,46,Normal,50,Organised,63,57,58,Organised,61,56,69,Cover
+Sevilla FC,81,53,Normal,34,Organised,53,45,58,Organised,42,48,59,Cover
+Shakhtar Donetsk,77,44,Normal,39,Organised,37,42,39,Free Form,47,57,40,Cover
+SL Benfica,79,69,Normal,32,Organised,60,40,67,Organised,60,63,54,Cover
+Spartak Moskou,77,61,Normal,45,Organised,68,65,40,Free Form,55,59,55,Cover
+Sporting CP,78,65,Normal,42,Organised,50,50,60,Organised,62,61,54,Cover
+Tottenham Hotspur,81,47,Normal,45,Organised,41,41,63,Organised,68,72,56,Cover
